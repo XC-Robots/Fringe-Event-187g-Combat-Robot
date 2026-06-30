@@ -8,6 +8,13 @@ I designed a rough TPU chassis to fit around the electronics, as well as polycar
 ![Chassis setup](screenshots/ChassisBegin.png)
 Working on the basis of the drive motor mount and cam for the shuffler mechanism. The shuffler mechanism is inspired by this design: https://www.digikey.com/en/maker/tutorials/2024/how-to-make-a-robot-shuffler-mechanism?msockid=0ded191f765d630021090a7e725d6dfe. I am planning on printing this out of PLA+ or PETG since this part is caged in TPU and therefore won't need to take a direct hit, and it'll keep things simple. Also made significant changes to chassis in order to fit this new portion. I removed the side walls and back wall, which I will add back in later once the essentials are in place. This has taken 45 minutes so far. Here is my motor mount:
 ![Motor](screenshots/MotorMount.png)
-I spent a good hour working on the shuffler legs, adjusting them to fit the robot. I went for three legs per side to enduce clean motion without using too much weight. Since I am using a compliant shuffler mechanism, I will be printing these legs out of TPU. I also remade the TPU chassis and armor, fitting it better to the overall design.
+      I spent a good hour working on the shuffler legs, adjusting them to fit the robot. I went for three legs per side to enduce clean motion without using too much weight. Since I am using a compliant shuffler mechanism, I will be printing these legs out of TPU. I also remade the TPU chassis and armor, fitting it better to the overall design.
 ![Overall](screenshots/BotProgress.png)
-I spent 36 minutes refining the details, mostly the coloration, of the robot. I also took the time to start on one of the hugger forks. These will hang around around the outside of the bot and then snap inwards when triggered by the servo. Just a rough draft right now.
+       I spent 36 minutes refining the details, mostly the coloration, of the robot. I also took the time to start on one of the hugger forks. These will hang around around the outside of the bot and then snap inwards when triggered by the servo. Just a rough draft right now.
+![Overall](screenshots/DetailsHuggerForkBegin.png)
+         Day 3, 6/30/26:
+     I took the time to refine the current details in the robot, filleting and chamfering where needed. I also added the holes for the standoffs I'm going to use to connect the top and bottom plates, as well as refined the motor mounts and indented the back TPU armor (this with the purpose of saving weight and looking cooler). This process took 40 minutes. I spent another 34 minutes coming up with and editing a design for the inner forks. To compliment the hugger forks, I am using two standard forks between them, made out of 1.5mm aluminum. This will significantly increase the likelyhood of getting under enemy robots, which is crucial to combat robotics.
+
+ADD FORK PICTURE HERE!!!!!!!!!!!!
+
+I spent 26 minutes designing the fork mounts, where the forks connect to the chassis, and a TPU servo protector. The servo protector will both mount the servo to the robot and provide an extra layer of defense incase that part gets hit.
