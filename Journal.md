@@ -20,11 +20,13 @@ Working on the basis of the drive motor mount and cam for the shuffler mechanism
 I spent 26 minutes designing the fork mounts, where the forks connect to the chassis, and a TPU servo protector. The servo protector will both mount the servo to the robot and provide an extra layer of defense incase that part gets hit.
 The Hugger forks weren't turning out how I wanted them to, so I took the time to reshape one side. Instead of going straight foward, the fork funnels outward, hopefully providing a better probability of sucess. Also, it looks way cooler and more unique. About 30 minutes to do this. Next I am going to create the holes to run string through the hugger arms, which is what will cause them to bend. 
 ![Hugger](screenshots/NewHugger.png)
-            Day 4, 7/1/26
+            Day 4, 7/1/26:
             I am designing what are essentially tunnels for the string to go through for a few reasons. First off, these tunnels protect the string from attacks. Second, they help corral the string, making movements more consistent and accurate. These are essentially the arteries of the robot. I am running them from the tips of the hugger forks to the servo.
 ![String](screenshots/Arteries.png)
             I spent 1 hour and 17 minutes this session finalizing the design. I adjusted the arteries so they reached the correct locations, then mirrored the new hugging fork to the other side. Next I got to work designing a decoration that was incorporated into the servo guard. I was going for a kind of 'cool hand' design, though I ended up with something more like 'feverish splat'. Oh well, still adds some nice detail to the bot. Each finger goes to a screw hole, which also helps mount the servo securely. I added a fingertech switch, which turns the bot on and off, because I forgot to earlier. I also added a battery wall in order to keep the electronics more organized. Finally, I cadded the servo horn on top. Now I need to make the wedge configuration, a different module more optimized for fighting horizontal weaponed robots.
             ![Overall](screenshots/FringeEventRender.png)
             Now it's just weight calcs from here (hopefully).
-            After calculating weight, I realised that I actually had quite a few grams left over, so I decided to make use of that extra weight by adding a UHMW wedge. Originally This was just going to be a standard wedge, but then I had the idea of turning it into an extra layer of armor. I spent 46 minutes doing this. This armor will greatly increase strength. However, the drawback is that it will give the whole bot a much boxier look, and might interfere with the huggers. Will get that figured out later, along with the weight of the armor.
+            Day 5, 7/2/26: Weights are in and, if accurate, the total weight of the bot is 182.65g. This is technically below the limit, but I don't want to go any heavier in case there is some variability in the calculations. Right now, though, Fringe Event is done.
 
+            Total CAD time: 6hr, 41 min
+            Total time (rough estimate): 9hr
